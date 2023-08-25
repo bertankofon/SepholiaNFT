@@ -64,3 +64,4 @@ contract BerToken is ERC721, ERC721Enumerable, ERC721URIStorage {
         return super.supportsInterface(interfaceId);
     }
 }
+
